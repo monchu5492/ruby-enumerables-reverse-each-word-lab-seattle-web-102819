@@ -1,4 +1,7 @@
 def reverse_each_word(sentence1)
-sentence1.each('') {|r| p r}
+s =[]
+s.push(sentence1)
+s.each {|r| r.reverse}
+p s.to_s
 end 
 
