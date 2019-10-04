@@ -1,2 +1,3 @@
 def reverse_each_word(sentence1)
-s = []
+s = sentence1.each {|r|
+
