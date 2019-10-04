@@ -1,4 +1,5 @@
 def reverse_each_word(sentence)
+  s2 = []
   sentence.each {
-    |s2| 
+    |r| 
   }
