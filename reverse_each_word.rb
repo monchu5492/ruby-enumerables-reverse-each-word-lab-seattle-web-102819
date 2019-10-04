@@ -6,7 +6,7 @@ split_sentence = sentence.split
 split_sentence.map {|word|
   
 }
-s.each {|r| r.reverse}
-p s.to_s
+# s.each {|r| r.reverse}
+# p s.to_s
 end 
 
